@@ -1,0 +1,15 @@
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\bin\Debug\net6.0\AutoMenuCreater.Data.deps.json
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\bin\Debug\net6.0\AutoMenuCreater.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\bin\Debug\net6.0\AutoMenuCreater.Data.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\bin\Debug\net6.0\AutoMenuCreater.Core.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\bin\Debug\net6.0\AutoMenuCreater.Core.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\AutoMenuCreater.Data.csproj.AssemblyReference.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\AutoMenuCreater.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\AutoMenuCreater.Data.AssemblyInfoInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\AutoMenuCreater.Data.AssemblyInfo.cs
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\AutoMenuCreater.Data.csproj.CoreCompileInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\AutoMenuCreater.Data.csproj.CopyComplete
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\AutoMenuCreater.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\refint\AutoMenuCreater.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\AutoMenuCreater.Data.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Data\obj\Debug\net6.0\ref\AutoMenuCreater.Data.dll

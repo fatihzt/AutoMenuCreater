@@ -1,0 +1,17 @@
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\bin\Debug\net6.0\AutoMenuCreater.Business.deps.json
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\bin\Debug\net6.0\AutoMenuCreater.Business.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\bin\Debug\net6.0\AutoMenuCreater.Business.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\AutoMenuCreater.Business.csproj.AssemblyReference.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\AutoMenuCreater.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\AutoMenuCreater.Business.AssemblyInfoInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\AutoMenuCreater.Business.AssemblyInfo.cs
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\AutoMenuCreater.Business.csproj.CoreCompileInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\AutoMenuCreater.Business.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\refint\AutoMenuCreater.Business.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\AutoMenuCreater.Business.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\ref\AutoMenuCreater.Business.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\bin\Debug\net6.0\AutoMenuCreater.Core.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\bin\Debug\net6.0\AutoMenuCreater.Data.dll
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\bin\Debug\net6.0\AutoMenuCreater.Data.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\bin\Debug\net6.0\AutoMenuCreater.Core.pdb
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Business\obj\Debug\net6.0\AutoMenuCreater.Business.csproj.CopyComplete

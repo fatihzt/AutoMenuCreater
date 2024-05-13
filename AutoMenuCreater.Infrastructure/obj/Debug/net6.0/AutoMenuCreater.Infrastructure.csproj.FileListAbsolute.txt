@@ -1,0 +1,5 @@
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Infrastructure\obj\Debug\net6.0\AutoMenuCreater.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Infrastructure\obj\Debug\net6.0\AutoMenuCreater.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Infrastructure\obj\Debug\net6.0\AutoMenuCreater.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Infrastructure\obj\Debug\net6.0\AutoMenuCreater.Infrastructure.AssemblyInfo.cs
+C:\Users\MuhammetFatih.Ozata\source\repos\AutoMenuCreater\AutoMenuCreater.Infrastructure\obj\Debug\net6.0\AutoMenuCreater.Infrastructure.csproj.CoreCompileInputs.cache
